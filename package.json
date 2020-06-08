@@ -4,6 +4,7 @@
   "description": " Mystery Machine ",
   "main": "getReward.js",
   "scripts": {
+    "getpass": "node challenge2Official.js"
     "reward": "node getReward.js"
   },
   "keywords": [
@@ -13,6 +14,7 @@
   "author": "darkie8",
   "license": "MIT",
   "dependencies": {
+    "mathjs": "^7.0.1",
     "prompt-sync": "^4.2.0"
   }
 }
