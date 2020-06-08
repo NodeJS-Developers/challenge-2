@@ -4,7 +4,7 @@
   "description": " Mystery Machine ",
   "main": "getReward.js",
   "scripts": {
-    "getpass": "node challenge2Official.js"
+    "getpass": "node challenge2Official.js",
     "reward": "node getReward.js"
   },
   "keywords": [
